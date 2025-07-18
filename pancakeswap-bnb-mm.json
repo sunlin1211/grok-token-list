@@ -1,0 +1,16 @@
+{
+  "name": "GROK Token List",
+  "logoURI": "https://raw.githubusercontent.com/sunlin1211/grok-token-list/main/images/0x8802E09F72fc5AC1d67661280A802C89b91cB076.png",
+  "keywords": ["grok", "token", "list"],
+  "timestamp": "2025-07-18T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x8802E09F72fc5AC1d67661280A802C89b91cB076",
+      "name": "GROK 4",
+      "symbol": "GROK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sunlin1211/grok-token-list/main/images/0x8802E09F72fc5AC1d67661280A802C89b91cB076.png"
+    }
+  ]
+}
